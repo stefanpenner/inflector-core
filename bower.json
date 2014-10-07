@@ -1,5 +1,5 @@
 {
-  "name": "ember-inflector",
+  "name": "inflector-core",
   "version": "1.0.0",
   "dependencies": {
     "ember": ">= 1.0.0 < 2.0.0"
